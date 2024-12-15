@@ -3,7 +3,7 @@ import Link from "next/link"
 
 
 const NavBar: React.FC = () => {
-  const links = [{ id: 1, name: "更多资源", to: "/about" }]
+  const links = [{ id: 1, name: "更多", to: "/about" }]
   return (
     <StyledWrapper className="">
       <ul>
