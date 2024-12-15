@@ -49,7 +49,7 @@ const CONFIG = {
     },
   },
   crisp: {
-    enable: true,
+    enable: false,
     config: {
       CRISP_WEBSITE_ID: "6c078f6c-7060-473b-ab40-639c0817c1cb",
     },
