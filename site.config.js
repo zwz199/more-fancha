@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "狼友收藏夹",
+    name: "反差1号房",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "你想看的这里都有！",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `狼友收藏夹`,
-      href: "scj-vip.top",
+      name: `N号房`,
+      href: "fc-x.top",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://baidu.com",
   since: 2022, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
