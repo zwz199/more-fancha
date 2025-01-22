@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `N号房`,
-      href: "fc-x.top",
+      name: `PikPak资源分享频道`,
+      href: "pikpak.top",
     },
   ],
   // blog setting (required)
