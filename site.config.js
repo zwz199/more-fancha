@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "标题",
-    description: "欢迎",
+    title: "反差n号房",
+    description: "欢迎使用频道之家",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
