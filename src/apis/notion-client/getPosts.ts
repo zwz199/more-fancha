@@ -78,12 +78,7 @@ export const getPosts = async () => {
       data.push(properties)
     }
 
-    // Sort by date
-    data.sort((a: any, b: any) => {
-      const dateA: any = new Date(a?.date?.start_date || a.createdTime)
-      const dateB: any = new Date(b?.date?.start_date || b.createdTime)
-      return dateB - dateA
-    })
+
 
     const posts = data as TPosts
     return posts
