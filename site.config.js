@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "反差x号馆",
+    name: "反差1号馆",
     image: "/cat.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "每日更新中~",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `PikPak资源分享频道`,
+      name: `PikPak资源频道`,
       href: "pikpak.top",
     },
   ],
