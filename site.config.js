@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "反差1号房",
+    name: "反差x号馆",
     image: "/cat.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "每日更新~",
+    bio: "每日更新中~",
     email: "morethanmin.dev@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "反差n号房",
+    title: "反差档案馆",
     description: "欢迎使用频道之家",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
